@@ -89,5 +89,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 
 - [Google OR-Tools](https://developers.google.com/optimization) for providing the optimization library used in this project.
-
-Similar code found with 1 license type
